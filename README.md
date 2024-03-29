@@ -1,4 +1,4 @@
-# WebApp predicting Sentiment140 tweets
+# WebApp recommend article_ids
 This app can recommend the top 5 article_ids from Globo.com user_ids.
 
 # Context
